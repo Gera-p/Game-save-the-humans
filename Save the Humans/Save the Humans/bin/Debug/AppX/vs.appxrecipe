@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-0L15498</Machine>
+    <WindowsUser>vg140</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B46CC4A4BEEEA88DE95C88A60A468D0A28E957C2DA95C6DE506A2ABB8BBDAAA3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a380e6eb-9e53-460f-8376-901302f5d6e5_1.0.0.0_neutral__3crc61ba62qvg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a380e6eb-9e53-460f-8376-901302f5d6e5_3crc61ba62qvg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a380e6eb-9e53-460f-8376-901302f5d6e5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vg140</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-12T12:21:22.256</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe">
+      <PackagePath>Save the Humans.exe</PackagePath>
+      <Modified>2020-04-12T13:18:23.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb">
+      <PackagePath>Save the Humans.pdb</PackagePath>
+      <Modified>2020-04-12T13:18:23.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\Assets\47898.png">
+      <PackagePath>Assets\47898.png</PackagePath>
+      <Modified>2020-04-12T12:13:43.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\Assets\Covid19.gif">
+      <PackagePath>Assets\Covid19.gif</PackagePath>
+      <Modified>2020-04-12T11:52:09.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\Assets\Эмблема ВНИИР.gif">
+      <PackagePath>Assets\Эмблема ВНИИР.gif</PackagePath>
+      <Modified>2020-04-12T12:19:09.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2020-04-06T17:15:07.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2020-04-06T17:08:44.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T17:24:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\bin\Debug\MainPage..xaml">
+      <PackagePath>MainPage..xaml</PackagePath>
+      <Modified>2020-04-12T13:18:21.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vg140\Documents\Visual Studio 2012\Projects\Save the Humans\Save the Humans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-04-12T12:21:22.203</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
